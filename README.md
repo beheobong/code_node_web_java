@@ -3,6 +3,9 @@
 ### 1. Error: EACCES: permission denied, access '/usr/local/lib/node_modules'
 - https://stackoverflow.com/a/51024493/10819917
 
+### 2. Uploading files to a Google Cloud server with SFTP using FileZilla:
+- https://www.youtube.com/watch?v=SZLXP5k2tb8
+
 ```sh
 CODE CENTOS
 
