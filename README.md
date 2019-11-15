@@ -6,6 +6,9 @@
 ### 2. Uploading files to a Google Cloud server with SFTP using FileZilla:
 - https://www.youtube.com/watch?v=SZLXP5k2tb8
 
+### 3. MongoDB Click to Deploy on Google Cloud Platform
+- https://www.youtube.com/watch?v=H5gF9fjNMF8
+
 ```sh
 CODE CENTOS
 
