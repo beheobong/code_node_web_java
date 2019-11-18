@@ -6,6 +6,22 @@
 ### Login sv and install node 
 - https://www.rosehosting.com/blog/how-to-install-node-js-and-npm-on-centos-7/
 
+### Edit file:
+```sh
+Command Line
+1. Right-click on the desktop and choose the "Open in Terminal" option from the menu that appears.
+2. Type the cd command at the command prompt, followed by the name of directory that contains the text file:
+cd directory_name
+
+3. Type the vi command followed by the name of the file to open the file in Vi:
+vi file_name.txt
+
+4. Use the keyboard to navigate through the file. Press "j" to move the cursor down, "k" to move the cursor up, "h" to move the cursor left and "l" to move the cursor right.
+5. Press the "i" key to insert text into the file.
+6. Press the "Esc" key to return to normal mode to continue navigating through the file.
+7. Type ":wq" on the keyboard to save and close the file.
+```
+
 ### 1. Error: EACCES: permission denied, access '/usr/local/lib/node_modules'
 - https://stackoverflow.com/a/51024493/10819917
 
