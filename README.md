@@ -3,6 +3,9 @@
 ### Tạo vps
 - https://conduongkhoinghiep.vn/huong-dan-cach-tao-vps-tren-google-cloud/
 
+### Login sv and install node 
+- https://www.rosehosting.com/blog/how-to-install-node-js-and-npm-on-centos-7/
+
 ### 1. Error: EACCES: permission denied, access '/usr/local/lib/node_modules'
 - https://stackoverflow.com/a/51024493/10819917
 
