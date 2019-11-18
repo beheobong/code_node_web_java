@@ -22,6 +22,54 @@ vi file_name.txt
 7. Type ":wq" on the keyboard to save and close the file.
 ```
 
+### Set up basic
+#### 1. install git
+```sh
+sudo yum install git
+```
+#### 2. install node
+```sh
+1. Login to your VPS via SSH
+ssh user@vps_IP
+2. Update the system and install necessary packages
+yum install curl sudo
+3. Install Node.js and npm from the NodeSource repository
+We will install Node.js v6 LTS and npm from the NodeSource repository which depends on the EPEL repository being available.
+
+To enable the EPEL repository on your CentOS 7 VPS, issue the following command:
+
+sudo yum install epel-release
+Once the EPEL repository is enabled run the following command to add the Node.js v6 LTS repository:
+
+curl --silent --location https://rpm.nodesource.com/setup_6.x | sudo bash -
+If you want to enable the Node.js v8 repository instead of the command above run the following command:
+
+curl --silent --location https://rpm.nodesource.com/setup_8.x | sudo bash -
+Once the NodeSource repository is enabled we can proceed with the Node.js v6 LTS and npm installation:
+
+sudo yum install nodejs
+4. Install build tools
+To compile and install native add-ons from the npm repository we also need to install build tools:
+
+sudo yum install gcc-c++ make
+To verify if the Node.js installation was successful, issue the following command:
+
+node -v
+The output should be like the following:
+
+v6.11.5
+5. Verify npm installation
+To verify if the npm installation was successful, issue the following command:
+
+npm -v
+The output should be like the following:
+
+3.10.10
+```
+
+#### 3. install mongoDB
+ - https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-centos-7
+
 ### 1. Error: EACCES: permission denied, access '/usr/local/lib/node_modules'
 - https://stackoverflow.com/a/51024493/10819917
 
