@@ -1,5 +1,8 @@
 # code_node
 
+### Tạo vps
+- https://conduongkhoinghiep.vn/huong-dan-cach-tao-vps-tren-google-cloud/
+
 ### 1. Error: EACCES: permission denied, access '/usr/local/lib/node_modules'
 - https://stackoverflow.com/a/51024493/10819917
 
