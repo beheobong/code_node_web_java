@@ -74,6 +74,8 @@ The output should be like the following:
  use mydb
 db.createUser({ user: 'myuser', pwd: 'mypassword', roles: ['readWrite'] })
  ```
+ - Phương thức trong mongodb
+ - https://www.tutorialspoint.com/mongodb/mongodb_create_database.htm
 
 ### 1. Error: EACCES: permission denied, access '/usr/local/lib/node_modules'
 - https://stackoverflow.com/a/51024493/10819917
