@@ -76,6 +76,8 @@ db.createUser({ user: 'myuser', pwd: 'mypassword', roles: ['readWrite'] })
  ```
  - Phương thức trong mongodb
  - https://www.tutorialspoint.com/mongodb/mongodb_create_database.htm
+ - Config remote mongodb: https://medium.com/founding-ithaka/setting-up-and-connecting-to-a-remote-mongodb-database-5df754a4da89
+ - connect from uri: https://stackoverflow.com/questions/45876403/mongodb-connect-locally-to-vps-database
 
 ### 1. Error: EACCES: permission denied, access '/usr/local/lib/node_modules'
 - https://stackoverflow.com/a/51024493/10819917
