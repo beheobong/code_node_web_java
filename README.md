@@ -69,6 +69,11 @@ The output should be like the following:
 
 #### 3. install mongoDB
  - https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-centos-7
+ - Tạo db và user
+ ```sh
+ use mydb
+db.createUser({ user: 'myuser', pwd: 'mypassword', roles: ['readWrite'] })
+ ```
 
 ### 1. Error: EACCES: permission denied, access '/usr/local/lib/node_modules'
 - https://stackoverflow.com/a/51024493/10819917
@@ -78,6 +83,8 @@ The output should be like the following:
 
 ### 3. MongoDB Click to Deploy on Google Cloud Platform
 - https://www.youtube.com/watch?v=H5gF9fjNMF8
+
+
 
 ```sh
 CODE CENTOS
