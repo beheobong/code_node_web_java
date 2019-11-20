@@ -78,6 +78,21 @@ db.createUser({ user: 'myuser', pwd: 'mypassword', roles: ['readWrite'] })
  - https://www.tutorialspoint.com/mongodb/mongodb_create_database.htm
  - Config remote mongodb: https://medium.com/founding-ithaka/setting-up-and-connecting-to-a-remote-mongodb-database-5df754a4da89
  - connect from uri: https://stackoverflow.com/questions/45876403/mongodb-connect-locally-to-vps-database
+ 
+ - remove mongo
+ ```sh 
+ 1.Stop Mongo DB using -
+
+sudo service mongod stop
+or sudo systemctl stop mongod
+2.Remove Packages using -
+
+sudo yum erase $(rpm -qa | grep mongodb-org)
+3.Remove Data Directories using -
+
+sudo rm -r /var/log/mongodb
+sudo rm -r /var/lib/mongo
+```
 
 ### 1. Error: EACCES: permission denied, access '/usr/local/lib/node_modules'
 - https://stackoverflow.com/a/51024493/10819917
