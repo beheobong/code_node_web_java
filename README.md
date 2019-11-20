@@ -68,6 +68,12 @@ The output should be like the following:
 ```
 
 #### 3. install mongoDB
+
+##### important:
+```sh
+gcloud auth login
+gcloud compute firewall-rules create allow-mongodb --allow tcp:27017
+```
  - https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-centos-7
  - Tạo db và user
  ```sh
