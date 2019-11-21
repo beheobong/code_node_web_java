@@ -1,5 +1,10 @@
 # code_node
 
+### mở cổng vps: 
+```sh
+gcloud compute firewall-rules create <tên rule> --allow tcp:9999
+```
+
 ### Tạo vps
 - https://conduongkhoinghiep.vn/huong-dan-cach-tao-vps-tren-google-cloud/
 
