@@ -152,4 +152,8 @@ npm  run build
 There are a few options here, by default if we use ‘Serve’ it will use port 5000;  This is run by calling the following :
 
 serve -s build
+
+npm command 'serve ' not found, although it is installed
+npm uninstall -g serve 
+npm i -S serve
 ```
