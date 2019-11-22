@@ -151,6 +151,10 @@ ssh -i gc_rsa chau_736331@35.221.154.112
 npm  run build
 There are a few options here, by default if we use ‘Serve’ it will use port 5000;  This is run by calling the following :
 
+sử dụng pm2:
+We use PM2 as an application manager in order to keep our app running after we log out of the server.
+pm2 start my-app/node_modules/react-scripts/scripts/start.js --name "my-app"
+
 serve -s build
 
 npm command 'serve ' not found, although it is installed
