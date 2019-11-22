@@ -145,3 +145,11 @@ connect to VPS
 cd ~/.ssh
 ssh -i gc_rsa chau_736331@35.221.154.112
 ```
+
+### 4. deploy react web app "centos 7"
+```sh
+npm  run build
+There are a few options here, by default if we use ‘Serve’ it will use port 5000;  This is run by calling the following :
+
+serve -s build
+```
