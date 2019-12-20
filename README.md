@@ -78,6 +78,9 @@ The output should be like the following:
 ```sh
 gcloud auth login
 gcloud compute firewall-rules create allow-mongodb --allow tcp:27017
+
+:w ==> save file
+:q quit file
 ```
  - https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-centos-7
  - Tạo db và user
