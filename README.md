@@ -1,4 +1,5 @@
 # code_node
+- setup and create new: https://expressjs.com/en/starter/generator.html
 
 ### mở cổng vps: 
 ```sh
