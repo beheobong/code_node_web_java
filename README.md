@@ -165,3 +165,6 @@ npm command 'serve ' not found, although it is installed
 npm uninstall -g serve 
 npm i -S serve
 ```
+
+#### get fb infor:
+- https://stackoverflow.com/a/3549094/10819917
