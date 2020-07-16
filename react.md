@@ -9,3 +9,6 @@
 
 ### 6: kho giao diện 
 - https://nhanh.vn/kho-giao-dien
+
+### 7: How to scroll to an element?
+- https://stackoverflow.com/a/51828976/10819917
