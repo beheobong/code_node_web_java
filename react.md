@@ -12,3 +12,6 @@
 
 ### 7: How to scroll to an element?
 - https://stackoverflow.com/a/51828976/10819917
+
+### 8: landing page:
+- https://github.com/cruip/open-react-template
