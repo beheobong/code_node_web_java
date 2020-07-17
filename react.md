@@ -19,3 +19,4 @@
 - https://react-landnig-page.netlify.app/Contact
 - https://github.com/dennybritz/neal-react
 - https://github.com/AldoHub/React-Landing-Template
+- https://github.com/front10/landing-page-create-react-app
