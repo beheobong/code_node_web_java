@@ -15,3 +15,6 @@
 
 ### 8: landing page:
 - https://github.com/cruip/open-react-template
+- https://github.com/getwebem/ReactJS-web-developer-landing-page
+- https://react-landnig-page.netlify.app/Contact
+- https://github.com/dennybritz/neal-react
