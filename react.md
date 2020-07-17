@@ -18,3 +18,4 @@
 - https://github.com/getwebem/ReactJS-web-developer-landing-page
 - https://react-landnig-page.netlify.app/Contact
 - https://github.com/dennybritz/neal-react
+- https://github.com/AldoHub/React-Landing-Template
