@@ -1,0 +1,2 @@
+- https://kipalog.com/posts/Shopping-Cart-duoc-build-bang-TypeScript--NextJS--React--Redux--GraphQL------va-Material-UI
+- https://github.com/Maxvien/next-shopify-storefront
