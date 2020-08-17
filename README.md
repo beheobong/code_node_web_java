@@ -168,3 +168,7 @@ npm i -S serve
 
 #### get fb infor:
 - https://stackoverflow.com/a/3549094/10819917
+
+### fake ip: Proxy for crawler
+- https://proxycrawl.com/
+- https://medium.com/@boygiandi/x%C3%A2y-d%E1%BB%B1ng-h%E1%BB%87-th%E1%BB%91ng-proxy-h%E1%BB%97-tr%E1%BB%A3-crawler-7243b55bffa0
