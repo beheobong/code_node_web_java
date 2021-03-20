@@ -1,3 +1,3 @@
 ### 1 setup mongo db
 
-https://askubuntu.com/a/884652
+https://askubuntu.com/a/842599
