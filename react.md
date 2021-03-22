@@ -1,6 +1,10 @@
 Thẻ html - css:
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - https://flexboxfroggy.com/
+Check thẻ html: 
+- https://validator.w3.org/
+- lighthouse
+- google insight
 
 ### 1 How to select multiple images using react-image-picker
 - https://stackoverflow.com/a/60753368/10819917
