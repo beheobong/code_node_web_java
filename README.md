@@ -172,3 +172,6 @@ npm i -S serve
 ### fake ip: Proxy for crawler
 - https://proxycrawl.com/
 - https://medium.com/@boygiandi/x%C3%A2y-d%E1%BB%B1ng-h%E1%BB%87-th%E1%BB%91ng-proxy-h%E1%BB%97-tr%E1%BB%A3-crawler-7243b55bffa0
+
+### Backup mysqlite to google driver
+- https://sqlbackupandftp.com/blog/how-to-backup-sql-server-to-google-drive
