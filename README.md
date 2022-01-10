@@ -176,3 +176,6 @@ npm i -S serve
 ### Backup mysqlite to google driver
 - https://sqlbackupandftp.com/blog/how-to-backup-sql-server-to-google-drive
 - https://medium.com/auto-backup-mysql-to-google-drive/auto-backup-mysql-to-google-drive-c8b2178b097e
+
+### count comment, likes 
+- https://www.tutorialguruji.com/javascript/count-from-another-table-in-sequelize/
