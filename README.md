@@ -1,3 +1,10 @@
+```
+sudo firewall-cmd --permanent --zone=public --add-port=2888/tcp 
+
+sudo firewall-cmd --reload
+```
+
+
 # code_node
 - setup and create new: https://expressjs.com/en/starter/generator.html
 
