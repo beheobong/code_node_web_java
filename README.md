@@ -1,3 +1,6 @@
+- SV gen image thumb: 
+- https://github.com/chrisben/image-thumb
+
 ```
 sudo firewall-cmd --permanent --zone=public --add-port=2888/tcp 
 
